@@ -1,4 +1,5 @@
 - Download latest DABO boreholes, e.g. as geopackage and filter/remove unwanted ids [Link](https://open.nrw/dataset/7a5c72ee-198e-4e58-80bf-a5d1e6196c7f)
 - Have subselection as .geojson in same folder
 - Adjust minimum depth in script
-- Run script
+- Activate python environment that has pyproj installed
+- Run script ```python dabo_downloader.py``` 
